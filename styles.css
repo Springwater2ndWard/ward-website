@@ -236,6 +236,10 @@ button {
   font-weight: 500;
 }
 
+.font-weight-400 {
+  font-weight: 400;
+}
+
 .display-flex {
   display: flex;
 }
